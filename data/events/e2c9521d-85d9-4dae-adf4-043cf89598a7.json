@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "f17f38d6-e1ac-46f0-a585-ca0f1fdf4eb5": {
+      "label": "Poet Laureate Introduction",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=AYHMAa899go",
+      "duration": 862
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Poet Laureate Introduction",
+  "created_at": "2026-06-16T19:44:34.093Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2026-06-16T19:44:34.093Z",
+  "updated_by": "jackDeVry"
+}
