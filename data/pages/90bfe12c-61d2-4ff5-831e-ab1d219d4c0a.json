@@ -4,6 +4,166 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Project Overview Page",
+          "textSize": "heading-one",
+          "bold": true
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "This AVAnnotate project introduces the life, poetry, voice, and public literary work of Mattie Quesenberry Smith, Virginia Poet Laureate (2024-2026). Rather than presenting poetry only as written text, the project foregrounds poetry as something heard, spoken, situated, and shared. Through recordings of Smith reading her poems, visual materials, contextual annotations, and examples of her community-based poetry work, the project invites viewers to encounter her poetry as both literary art and public practice."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The project will include author-read recordings of selected poems, brief contextual essays, visual materials such as photographs or handwritten drafts, and documentation of Smith’s contributions to poetry education and community workshops. The goal is to create an accessible digital space where viewers can listen closely, read carefully, and understand how Smith’s poetry emerges from place, memory, science, nature, family, and community."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://vca.virginia.gov/wp-content/uploads/2025/04/Final-MQS.png",
+              "caption": "(Virginia Commission for the Arts)",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -12,7 +172,7 @@
   "created_at": "2026-06-16T18:46:35.981Z",
   "created_by": "jackDeVry",
   "title": "Poet Laureate of Virginia 2025: Mattie Smith",
-  "updated_at": "2026-06-16T18:47:06.495Z",
+  "updated_at": "2026-06-16T18:49:14.234Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
