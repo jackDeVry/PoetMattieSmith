@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "jackDeVry",
+    "is_private": false,
+    "title": "Poet Laureate of Virginia 2025: Mattie Smith",
+    "description": "To develop later!",
+    "language": "en",
+    "slug": "PoetMattieSmith",
+    "creator": "jackDeVry",
+    "authors": "Jack DeVry Riordan",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-06-16T18:46:35.946Z",
+    "updated_at": "2026-06-16T18:46:35.946Z"
   }
 }
